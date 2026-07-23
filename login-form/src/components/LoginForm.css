@@ -1,0 +1,29 @@
+.input-text {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-width: 1px;
+  font-size: 14px;
+}
+
+.input-password {
+  margin-top: 20px;
+}
+
+.show-password {
+  margin-left: 10px;
+  padding: 2px 8px;
+  cursor: pointer;
+}
+
+.buttonReg {
+  background-color: blue;
+  color: white;
+  padding: 8px 15px;
+  margin-left: 10px;
+  border-radius: 4px;
+  border: none;
+}
+
+.buttonIn {
+  margin-top: 15px;
+}

@@ -34,4 +34,4 @@ export function LoginForm() {
   );
 }
 
-console.log();
+console.log("");

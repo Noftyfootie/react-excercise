@@ -33,5 +33,3 @@ export function LoginForm() {
     </div>
   );
 }
-
-console.log("TODAY");
